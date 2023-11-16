@@ -18,6 +18,6 @@ Sono un ragazzo appassionato della tecnologia ed a tutto ciò che serve a progra
 Passando sul back-end sono partito con PHP, per poi passare a Java dove sono riuscito ad approfondire molto le mie conoscenze, in particolar modo sfruttando MCV per migliorare la struttura del mio programma per poi passare al framework spring, dove sono riuscito ad approfondire bene ogni modulo, infine ho sfruttato il linguaggio SQL su MySQL come DataBase per salvare i miei dati. <br> <br>
 -Attualmente sto lavorando ad un progetto personale, per la gestione dei beni e bisogni per gli animali. <br>
 -Attualmente sto imparando il Clean Code. <br>
--Per qualsiasi richiesta di info/collaborazione contattami pure su linkedin: https://www.linkedin.com/in/luca-draghetti-680117220/
+<!-- -Per qualsiasi richiesta di info/collaborazione contattami pure su linkedin: https://www.linkedin.com/in/luca-draghetti-680117220/ -->
 
 
