@@ -1,10 +1,16 @@
-### Hi there 👋
-
 <!--
 **lucadrago95/lucadrago95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
+![helloworld](https://github.com/lucadrago95/lucadrago95/assets/127793221/161c28ca-1d3a-4130-ab15-7a4f4dfd0471)
+
+Sono un ragazzo appassionato della tecnologia ed a tutto ciò che serve a programmarla, mi piace smanettare e trovare soluzioni per i problemi che mi capitano durante la programmazione <!-- , i miei percorsi di studio sono sempre stati full stack, quindi partendo dal basso ho studiato algoritmi, per poi passare alle tecnologia usate sul front-end come HTML, CSS, JavaScript, nell'ultimo perdiodo sto approffondendo Angular, SCSS e TypeScript.
+Passando sul back-end sono partito con PHP, per poi passare a Java dove sono riuscito ad approfondire molto le mie conoscenze, in particolar modo sfruttando MCV come layout di -->
+<!--mi piacciono entrambe le faccie, ma se devo scegliere su quale lato proseguire preferisco il back-end, -->
+
+
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
