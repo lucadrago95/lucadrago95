@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 -->
 
 ![helloworld](https://github.com/lucadrago95/lucadrago95/assets/127793221/161c28ca-1d3a-4130-ab15-7a4f4dfd0471)
-
+<!--
 Sono un ragazzo appassionato della tecnologia ed a tutto ciò che serve a programmarla, mi piace smanettare e trovare soluzioni per i problemi che mi capitano durante la programmazione, i miei percorsi di studio sono sempre stati full stack, quindi partendo dal basso ho studiato algoritmi, per poi passare alle tecnologie usate sul front-end come HTML, CSS, JavaScript, nell'ultimo perdiodo sto approffondendo Angular, SCSS e TypeScript. <br>
 Passando sul back-end sono partito con PHP, per poi passare a Java dove sono riuscito ad approfondire molto le mie conoscenze, in particolar modo sfruttando MCV per migliorare la struttura del mio programma per poi passare al framework spring, dove sono riuscito ad approfondire bene ogni modulo, infine ho sfruttato il linguaggio SQL su MySQL come DataBase per salvare i miei dati. <br> <br>
 -Attualmente sto lavorando ad un progetto personale, per la gestione dei beni e bisogni per gli animali. <br>
 -Attualmente sto imparando il Clean Code. <br>
+-->
 <!-- -Per qualsiasi richiesta di info/collaborazione contattami pure su linkedin: https://www.linkedin.com/in/luca-draghetti-680117220/ -->
 
 
