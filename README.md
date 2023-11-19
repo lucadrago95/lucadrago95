@@ -13,12 +13,10 @@ Here are some ideas to get you started:
 -->
 
 ![helloworld](https://github.com/lucadrago95/lucadrago95/assets/127793221/161c28ca-1d3a-4130-ab15-7a4f4dfd0471)
-<!--
-Sono un ragazzo appassionato della tecnologia ed a tutto ciò che serve a programmarla, mi piace smanettare e trovare soluzioni per i problemi che mi capitano durante la programmazione, i miei percorsi di studio sono sempre stati full stack, quindi partendo dal basso ho studiato algoritmi, per poi passare alle tecnologie usate sul front-end come HTML, CSS, JavaScript, nell'ultimo perdiodo sto approffondendo Angular, SCSS e TypeScript. <br>
-Passando sul back-end sono partito con PHP, per poi passare a Java dove sono riuscito ad approfondire molto le mie conoscenze, in particolar modo sfruttando MCV per migliorare la struttura del mio programma per poi passare al framework spring, dove sono riuscito ad approfondire bene ogni modulo, infine ho sfruttato il linguaggio SQL su MySQL come DataBase per salvare i miei dati. <br> <br>
--Attualmente sto lavorando ad un progetto personale, per la gestione dei beni e bisogni per gli animali. <br>
--Attualmente sto imparando il Clean Code. <br>
--->
-<!-- -Per qualsiasi richiesta di info/collaborazione contattami pure su linkedin: https://www.linkedin.com/in/luca-draghetti-680117220/ -->
+Sono un appassionato di tecnologia e mi dedico con entusiasmo allo sviluppo di soluzioni attraverso il codice. La mia esperienza full stack ha avuto inizio con lo studio degli algoritmi, per poi estendersi alle tecnologie front-end, come HTML, CSS e JavaScript. Attualmente , sto esplorando Angular, SCSS e TypeScript. <br>
+
+Nel contesto del back-end, ho iniziato con PHP e successivamente mi sono concentrato su Java. Ho affinato le mie competenze attraverso l'implementazione del pattern MVC e l'utilizzo del framework Spring. Ho anche consolidato la gestione dei dati utilizzando il linguaggio SQL su MySQL. <br> <br>
+
+Parallelamente, sto lavorando su un progetto personale volto alla gestione dei beni e dei bisogni degli animali, un'iniziativa che combina la mia passione per la tecnologia con la volontà di contribuire al benessere degli animali. Inoltre, sto approfondendo la metodologia Clean Code, riconoscendo l'importanza di un codice pulito nella creazione di software robusto e sostenibile. <br>
 
 
